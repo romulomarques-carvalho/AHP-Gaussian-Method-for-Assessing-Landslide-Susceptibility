@@ -1,6 +1,6 @@
 # Landslide Susceptibility Analysis using Gaussian AHP Method
 # R script for calculating weighted inference from multiple raster variables
-# GitHub Repository: [Your Repository Name]
+# GitHub Repository: https://github.com/romulomarques-carvalho/AHP-Gaussian-Method-for-Assessing-Landslide-Susceptibility/blob/main/AHP-Gaussian-Method.r
 
 # Load required packages
 if (!require("raster")) install.packages("raster")
